@@ -1,5 +1,12 @@
 ![vpn](https://user-images.githubusercontent.com/39699305/153965851-f4eba185-207a-46be-9096-bc1f1cc424a3.png)
+
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/fernandofatech/VPN)
+
+![Last Commit](https://img.shields.io/github/last-commit/fernandofatech/VPN?color=%23abd100&style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/fernandofatech/VPN?color=%23ff47b6&style=for-the-badge)
+![Open Issues](https://img.shields.io/github/issues-raw/fernandofatech/VPN?color=%239e6eff&style=for-the-badge)
+![Pull Requests](https://img.shields.io/github/issues-pr-raw/fernandofatech/VPN?color=%2302b09f&style=for-the-badge)
+
 
 
 ## VPN Project
